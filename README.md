@@ -4,6 +4,12 @@
 
 ## Languages
 - Java
+  - Concurrency
+  - Funtional Programming
+  - JVM
+  - Memory Model
+  - Profiling
+  - Reactive Java
 - Javascript
 - GoLang
 
@@ -28,7 +34,8 @@
 - Space-Based Architecture
 - Pipeline Architecture
 - Service-Based Architecture
-- Orchestration-Driven Service-Oriented Archtiecture
+- Orchestration-Driven Service-Oriented Architecture
+- Serverless Architecture
 
 ### Building APIs
 REST
@@ -63,12 +70,17 @@ API Design
 - Haboop
 
 Messaging
+- Kafka
+- RabbitMQ
 
 ## ETL Tools
 - Spark
 - Fling
 
 Load Balancer
+- Software based load balancer
+  - Nginx
+- Hardware Load balancer
 
 ## Cache
 - Redis
@@ -84,6 +96,12 @@ Search Indexing
 - Elastic Search
 - Solr
 
+- Zookeeper
+- Jaeger
+
+Cloud Engineering
+- 
+
 Machine Learning
 - TensorFlow
 - Reinforcement
@@ -91,21 +109,25 @@ Machine Learning
 Site Reliability Engineering
 
 ## Books
-
-Designing Data-Intensive Applications
-Software Architecture Patterns
-Fundamentals of Software Architecture
-Building Evolutionary Architectures
+- Effective Multi-Tenant Distributed Systems
+- Distributed Systems Observability
+- Designing Distributed Systems
+- Designing Data-Intensive Applications
+- Software Architecture Patterns
+- Fundamentals of Software Architecture
+- Building Evolutionary Architectures
+- The Art of Immutable Architecture: Theory and Practice of Data Management in Distributed Systems
+- 40 Algorithms Every Programmer Should Know
+- Technology Strategy Patterns
 
 Good Developer Videos
-
-dev.tube
+- dev.tube
 
 Awesome Software Engineering Interview
-https://github.com/jwasham/coding-interview-university
-https://github.com/bmarvinb/software-engineer-interview-questions
-https://github.com/yangshun/tech-interview-handbook
-https://github.com/imkgarg/Awesome-Software-Engineering-Interview
-https://github.com/P1xt/google-interview-university
+- https://github.com/jwasham/coding-interview-university
+- https://github.com/bmarvinb/software-engineer-interview-questions
+- https://github.com/yangshun/tech-interview-handbook
+- https://github.com/imkgarg/Awesome-Software-Engineering-Interview
+- https://github.com/P1xt/google-interview-university
 
 
