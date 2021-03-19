@@ -22,9 +22,44 @@
 - Role based
 
 ## System Design
-### SOLID
 ### Design Patterns
+#### Creational Patterns
+- Abstract Factory
+- Builder
+- Factory Method
+- Prototype
+- Singleton
+#### Structural Patterns
+- Adapter
+- Bridge
+- Composite
+- Decorator
+- Facade
+- Flyweight
+- Proxy
+#### Behavioral Patterns
+- Chain of Responsibility
+- Command
+- Interpreter
+- Iterator
+- Mediator
+- Memento
+- Observer
+- State
+- Strategy
+- Template Method
+- Visitor
+
 ### OOAD
+- Anatomy of Class
+- Class Design Guidelines
+- Designing the Objects
+- Matering Inheritance and Composition
+- Frameworks and Reuse: Designing with Interfaces and Abstract Classes
+- Buliding Objects and Object-Oriented Design
+- Design Patterns
+- Avoding Dependencies and Highly Coupled Classes
+- SOLID Design Principles
 
 ### Architectural Patterns
 - Layered Architecture
@@ -38,21 +73,21 @@
 - Serverless Architecture
 
 ### Building APIs
-REST
-API Design
+- REST
+- API Design
 
 ### Distribued Computing
 - Single Node Pattern
 - Sidecar Pattern
 - Ambassadors
 - Adapters
-- Serving Patterns
+#### Serving Patterns
   - Replicated Load-balanced Services
   - Sharded Services
   - Scatter/Gather
   - Functions and Event-Driven Processing
   - Ownership Election
-- Batch Computational Patterns
+#### Batch Computational Patterns
   - Work Queue Systems
   - Event-Driven Batch Processing
   - Coordinated batch Processing
@@ -126,6 +161,7 @@ Site Reliability Engineering
 - The Art of Immutable Architecture: Theory and Practice of Data Management in Distributed Systems
 - 40 Algorithms Every Programmer Should Know
 - Technology Strategy Patterns
+- The Object-Oriented Thought Process, 5th Edition
 
 ## Good Developer Videos
 - dev.tube
