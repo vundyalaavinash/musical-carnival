@@ -31,9 +31,10 @@
 - 2-Factor Authentication
 - OAuth2.0
 ### Access Control
-- ACL
-- Attributes based
-- Role based
+- Discretionary access control (DAC)
+- Mandatory access control (MAC)
+- Role Based Access Control (RBAC)
+- Attribute Based Access Control (ABAC)
 
 ## System Design
 ### Design Patterns
@@ -188,5 +189,6 @@
 - https://github.com/P1xt/google-interview-university
 
 ## PS DS Questions
-
+- https://leetcode.com/list/xoqag3yj/
+- https://leetcode.com/discuss/interview-question/448285/List-of-questions-sorted-by-common-patterns
 
