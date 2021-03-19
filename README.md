@@ -41,14 +41,6 @@
 REST
 API Design
 
-### Databases
-#### SQL
-  PostgresSQL
-#### NoSQL
-- Mongodb
-- HBASE
-#### Indexes
-
 ### Distribued Computing
 - Single Node Pattern
 - Sidecar Pattern
@@ -65,11 +57,24 @@ API Design
   - Event-Driven Batch Processing
   - Coordinated batch Processing
 
-### Storage
+## Databases
+#### SQL
+- PostgresSQL
+#### NoSQL
+- Mongodb
+- HBASE
+#### Indexes
+- Hash Indexes
+- SSTables and LSM-Trees
+- B-Trees
+- Multi-Column Indexes
+- Full-Text Search and Fuzzy Indexes
+
+## Storage
 - File System
 - Haboop
 
-Messaging
+## Messaging
 - Kafka
 - RabbitMQ
 
@@ -77,7 +82,7 @@ Messaging
 - Spark
 - Fling
 
-Load Balancer
+## Load Balancer
 - Software based load balancer
   - Nginx
 - Hardware Load balancer
@@ -92,17 +97,19 @@ Load Balancer
 - Docker
 - Kubernetes
 
-Search Indexing
+## Search Indexing
 - Elastic Search
 - Solr
 
 - Zookeeper
+
+## Tracing
 - Jaeger
 
-Cloud Engineering
+## Cloud Engineering
 - 
 
-Machine Learning
+## Machine Learning
 - TensorFlow
 - Reinforcement
 
@@ -120,14 +127,16 @@ Site Reliability Engineering
 - 40 Algorithms Every Programmer Should Know
 - Technology Strategy Patterns
 
-Good Developer Videos
+## Good Developer Videos
 - dev.tube
 
-Awesome Software Engineering Interview
+## Software Engineering Interview
 - https://github.com/jwasham/coding-interview-university
 - https://github.com/bmarvinb/software-engineer-interview-questions
 - https://github.com/yangshun/tech-interview-handbook
 - https://github.com/imkgarg/Awesome-Software-Engineering-Interview
 - https://github.com/P1xt/google-interview-university
+
+## PS DS Questions
 
 
