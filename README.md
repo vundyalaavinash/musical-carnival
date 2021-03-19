@@ -1,7 +1,5 @@
 # musical-carnival
 
-# Topics
-
 ## Languages
 - Java
   - Concurrency
@@ -14,7 +12,23 @@
 - GoLang
 
 ## Authentication and Authorization
+### Authentication Mechanisms
+- Session-based Authentication
+- Cookie-based Authentication
+- Token-based Authentication
+- Claims-based Authentication
+- HTTP Authentication
+- Bearer Authentication
+- Digest Authentication
+- Form-based Authentication
+- Password Based Authentication
+- Multi-Factor Authentication
+- Certificate based Authentication
+- Token based Authentication
+- Multi-factor authentication
+- API Token
 - JWT
+- 2-Factor Authentication
 - OAuth2.0
 ### Access Control
 - ACL
@@ -148,7 +162,7 @@
 - TensorFlow
 - Reinforcement
 
-Site Reliability Engineering
+## Site Reliability Engineering
 
 ## Books
 - Effective Multi-Tenant Distributed Systems
