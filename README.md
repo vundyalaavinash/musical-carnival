@@ -87,9 +87,13 @@
 - Orchestration-Driven Service-Oriented Architecture
 - Serverless Architecture
 
-### Building APIs
+### Communication
 - REST
 - API Design
+- GRPC
+- WebSockets
+- HTTP
+- HTTP2
 
 ### Distribued Computing
 - Single Node Pattern
@@ -153,7 +157,7 @@
 - Elastic Search
 - Solr
 
-##Coordinator
+## Coordinator
 - Zookeeper
 
 ## Tracing
